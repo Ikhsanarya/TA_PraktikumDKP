@@ -1,0 +1,31 @@
+H:\Baju Murah Meriah\BAJU MURAH MERIAH\BAJU MURAH MERIAH\bin\Debug\BAJU MURAH MERIAH.exe.config
+H:\Baju Murah Meriah\BAJU MURAH MERIAH\BAJU MURAH MERIAH\bin\Debug\BAJU MURAH MERIAH.exe
+H:\Baju Murah Meriah\BAJU MURAH MERIAH\BAJU MURAH MERIAH\bin\Debug\BAJU MURAH MERIAH.pdb
+H:\Baju Murah Meriah\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\BAJU MURAH MERIAH.csprojResolveAssemblyReference.cache
+H:\Baju Murah Meriah\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\BAJU_MURAH_MERIAH.Baju.resources
+H:\Baju Murah Meriah\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\BAJU_MURAH_MERIAH.Properties.Resources.resources
+H:\Baju Murah Meriah\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\BAJU_MURAH_MERIAH.tanya.resources
+H:\Baju Murah Meriah\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\BAJU MURAH MERIAH.csproj.GenerateResource.Cache
+H:\Baju Murah Meriah\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\BAJU MURAH MERIAH.exe
+H:\Baju Murah Meriah\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\BAJU MURAH MERIAH.pdb
+H:\Δ Smad-Lock (Brankas Smadav) Δ\Baju Murah Meriah\BAJU MURAH MERIAH\BAJU MURAH MERIAH\bin\Debug\BAJU MURAH MERIAH.exe.config
+H:\Δ Smad-Lock (Brankas Smadav) Δ\Baju Murah Meriah\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\BAJU MURAH MERIAH.exe
+H:\Δ Smad-Lock (Brankas Smadav) Δ\Baju Murah Meriah\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\BAJU MURAH MERIAH.pdb
+H:\Δ Smad-Lock (Brankas Smadav) Δ\Baju Murah Meriah\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\BAJU MURAH MERIAH.csprojResolveAssemblyReference.cache
+H:\Δ Smad-Lock (Brankas Smadav) Δ\Baju Murah Meriah\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\BAJU_MURAH_MERIAH.Baju.resources
+H:\Δ Smad-Lock (Brankas Smadav) Δ\Baju Murah Meriah\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\BAJU_MURAH_MERIAH.Properties.Resources.resources
+H:\Δ Smad-Lock (Brankas Smadav) Δ\Baju Murah Meriah\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\BAJU_MURAH_MERIAH.tanya.resources
+H:\Δ Smad-Lock (Brankas Smadav) Δ\Baju Murah Meriah\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\BAJU MURAH MERIAH.csproj.GenerateResource.Cache
+H:\Δ Smad-Lock (Brankas Smadav) Δ\Baju Murah Meriah\BAJU MURAH MERIAH\BAJU MURAH MERIAH\bin\Debug\BAJU MURAH MERIAH.exe
+H:\Δ Smad-Lock (Brankas Smadav) Δ\Baju Murah Meriah\BAJU MURAH MERIAH\BAJU MURAH MERIAH\bin\Debug\BAJU MURAH MERIAH.pdb
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\BAJU MURAH MERIAH\BAJU MURAH MERIAH\bin\Debug\BAJU MURAH MERIAH.exe.config
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\BAJU MURAH MERIAH\BAJU MURAH MERIAH\bin\Debug\BAJU MURAH MERIAH.exe
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\BAJU MURAH MERIAH\BAJU MURAH MERIAH\bin\Debug\BAJU MURAH MERIAH.pdb
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\BAJU MURAH MERIAH.csprojAssemblyReference.cache
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\BAJU_MURAH_MERIAH.Baju.resources
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\BAJU_MURAH_MERIAH.Properties.Resources.resources
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\BAJU_MURAH_MERIAH.tanya.resources
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\BAJU MURAH MERIAH.csproj.GenerateResource.cache
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\BAJU MURAH MERIAH.csproj.CoreCompileInputs.cache
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\BAJU MURAH MERIAH.exe
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\BAJU MURAH MERIAH.pdb

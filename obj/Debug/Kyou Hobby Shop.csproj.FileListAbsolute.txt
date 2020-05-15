@@ -1,0 +1,22 @@
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\BAJU_MURAH_MERIAH.Properties.Resources.resources
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\Kyou Hobby Shop.csproj.GenerateResource.cache
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\Kyou Hobby Shop.csproj.CoreCompileInputs.cache
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\BAJU MURAH MERIAH.exe
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\BAJU MURAH MERIAH.pdb
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\Kyou_Hobby_shop.Jastip.resources
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\BAJU MURAH MERIAH\BAJU MURAH MERIAH\bin\Debug\BAJU MURAH MERIAH.exe.config
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\BAJU MURAH MERIAH\BAJU MURAH MERIAH\bin\Debug\BAJU MURAH MERIAH.exe
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\BAJU MURAH MERIAH\BAJU MURAH MERIAH\bin\Debug\BAJU MURAH MERIAH.pdb
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\Kyou Hobby Shop.csprojAssemblyReference.cache
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\BAJU MURAH MERIAH\BAJU MURAH MERIAH\obj\Debug\Kyou_Hobby_shop.konfirmasi.resources
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\TA DKP JASTIP HOBBY JEPANG\bin\Debug\BAJU MURAH MERIAH.exe.config
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\TA DKP JASTIP HOBBY JEPANG\bin\Debug\BAJU MURAH MERIAH.exe
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\TA DKP JASTIP HOBBY JEPANG\bin\Debug\BAJU MURAH MERIAH.pdb
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\TA DKP JASTIP HOBBY JEPANG\obj\Debug\Kyou Hobby Shop.csprojAssemblyReference.cache
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\TA DKP JASTIP HOBBY JEPANG\obj\Debug\Kyou_Hobby_shop.Jastip.resources
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\TA DKP JASTIP HOBBY JEPANG\obj\Debug\BAJU_MURAH_MERIAH.Properties.Resources.resources
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\TA DKP JASTIP HOBBY JEPANG\obj\Debug\Kyou_Hobby_shop.konfirmasi.resources
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\TA DKP JASTIP HOBBY JEPANG\obj\Debug\Kyou Hobby Shop.csproj.GenerateResource.cache
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\TA DKP JASTIP HOBBY JEPANG\obj\Debug\Kyou Hobby Shop.csproj.CoreCompileInputs.cache
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\TA DKP JASTIP HOBBY JEPANG\obj\Debug\BAJU MURAH MERIAH.exe
+C:\Users\iKhsan\Downloads\New folder (5)\BAHAN\TA DKP JASTIP HOBBY JEPANG\obj\Debug\BAJU MURAH MERIAH.pdb
